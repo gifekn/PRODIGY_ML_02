@@ -4,7 +4,7 @@ Create a K-means clustering algorithm to group customers of a retail store based
 Project Overview
 This project applies the K-Means clustering algorithm to segment customers of a retail store based on their purchasing behavior. By analyzing annual income and spending score, the model groups customers into distinct clusters. 
 
-Dataset
+Dataset:
 The dataset contains customer demographic and behavioral information, including:
 Age
 Annual Income (k$)
@@ -18,7 +18,8 @@ NumPy – Numerical operations
 Matplotlib – Data visualization
 scikit-learn – Implementation of K-Means and model evaluation
 
-Methodology
+Methodology:
+
 Data Preprocessing: Selected relevant features (Annual Income, Spending Score).
 
 Optimal Cluster Selection: Utilized the Elbow Method to determine the optimal number of clusters.
